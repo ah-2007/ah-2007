@@ -104,7 +104,7 @@ I’m currently focused on building strong fundamentals in networking and cybers
 
 <h2> Contact </h2>
 
-- 📧 Email: abdulhadibinfaizel07@gmail.com  
+- 📧 Email: ah2007@proton.me  
 - 💼 LinkedIn: *Coming Soon*
 
 ---
