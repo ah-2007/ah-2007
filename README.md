@@ -8,7 +8,7 @@ I'm **AH2007**, an aspiring **Penetration Tester** and cybersecurity learner.
 
 I’m currently focused on building strong fundamentals in networking and cybersecurity, while documenting my journey step by step. My goal is to become a skilled ethical hacker and contribute to a safer digital world.
 
-<a href="https://www.linkedin.com/in/YOUR-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/Hadi-Faizel" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -105,6 +105,5 @@ I’m currently focused on building strong fundamentals in networking and cybers
 <h2> Contact </h2>
 
 - 📧 Email: ah2007@proton.me  
-- 💼 LinkedIn: *Coming Soon*
 
 ---
