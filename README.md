@@ -97,8 +97,8 @@ I’m currently focused on building strong fundamentals in networking and cybers
 | **Project**      | **Description**                                                                                  |
 |------------------|--------------------------------------------------------------------------------------------------|
 | **[Cyber-Journal](https://github.com/ah-2007/Cyber-journal)** | Cybersecurity learning journal |
-| **[TryHackMe Writeups](https://github.com/ah-2007)** | Documenting labs and challenges I complete while learning |
-| **Python Tools (Coming Soon)** | Beginner cybersecurity tools I will build while learning |
+| **[TryHackMe-Journal](https://github.com/ah-2007/TryHackMe-Journal)** | Documenting labs and challenges I complete while learning |
+| **Tools (Coming Soon)** | Beginner cybersecurity tools I will build while learning |
 
 ---
 
